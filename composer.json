@@ -12,7 +12,14 @@
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~4.0",
-        "phpspec/phpspec": "~2.1"
+        "phpspec/phpspec": "~2.1",
+        "laracasts/generators": "1.1.1",
+        "spinegar/sugar7wrapper": "dev-master",
+        "twbs/bootstrap": "v3.3.5",
+        "enyo/dropzone": "v4.0.1",,
+        "maatwebsite/excel": "~2.0.0",
+        "elibyy/laravel-tcpdf": "0.*",
+        "divinityfound/arraytobootstraptable": "dev-master",
     },
     "autoload": {
         "classmap": [
